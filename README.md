@@ -11,7 +11,7 @@
 <br />
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Use Cases](https://img.shields.io/badge/usecases-30-blue?style=flat-square)
+![Use Cases](https://img.shields.io/badge/usecases-31-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/hesamsheikh/awesome-openclaw-usecases?label=Last%20Update&style=flat-square)
 </div>
 
@@ -64,6 +64,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Phone-Based Personal Assistant](usecases/phone-based-personal-assistant.md) | Access OpenClaw from any phone via voice call or SMS. Get calendar updates, Jira tickets, and web search results hands-free. |
 | [Family Calendar & Household Assistant](usecases/family-calendar-household-assistant.md) | Aggregate all family calendars into a morning briefing, monitor messages for appointments, and manage household inventory. |
 | [Multi-Agent Specialized Team](usecases/multi-agent-team.md) | Run multiple specialized agents (strategy, dev, marketing, business) as a coordinated team via a single Telegram chat. |
+| [Telegram Stream Reply Reliability Hardening](usecases/telegram-stream-reply-reliability.md) | Enforce single-message Telegram streaming (no duplicate final resend) with strong turn correlation, strict dedup, retries, and fallback receipts. |
 | [Custom Morning Brief](usecases/custom-morning-brief.md) | Get a fully customized daily briefing — news, tasks, content drafts, and AI-recommended actions — texted to you every morning. |
 | [Second Brain](usecases/second-brain.md) | Text anything to your bot to remember it, then search through all your memories in a custom Next.js dashboard. |
 | [Event Guest Confirmation](usecases/event-guest-confirmation.md) | Call a list of event guests one-by-one to confirm attendance, collect notes, and compile a summary — fully automated via AI voice calls. |
